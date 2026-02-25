@@ -62,6 +62,12 @@
 
 ###
 
-![pacman contribution graph](https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg)
+- name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ###
