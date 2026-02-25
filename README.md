@@ -63,9 +63,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=3">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=3">
 </picture>
 
 ###
