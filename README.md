@@ -3,7 +3,7 @@
 
 ###
 
-[cite_start]<p align="left">Meu nome é Bruno Verly e eu sou um Desenvolvedor Front-end em formação, do Rio de Janeiro, RJ[cite: 1, 2, 8, 9].</p>
+<p align="left">Meu nome é Bruno e eu sou um Desenvolvedor, sou do Rio de Janeiro, RJ.</p>
 
 ###
 
