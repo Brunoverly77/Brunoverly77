@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Meu nome é Bruno e eu sou um Desenvolvedor, sou do Rio de Janeiro, RJ.</p>
+[cite_start]<p align="left">Meu nome é Bruno Verly e eu sou um Desenvolvedor Front-end em formação, do Rio de Janeiro, RJ[cite: 1, 2, 8, 9].</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Olá, eu sou o Bruno Verly! 👋<br>Atualmente cursando Análise e Desenvolvimento de Sistemas  3º período e um entusiasta do desenvolvimento Front-end e Web. Minha jornada na tecnologia é movida pelo desafio de transformar linhas de código em interfaces modernas, funcionais e que resolvam problemas reais.<br><br>💻 O que estou fazendo agora<br>Atualmente, foco minhas energias no ecossistema JavaScript, especialmente com React.js , onde desenvolvi projetos como um Conversor de Moedas multilingue com suporte a Dark Mode.<br><br>Além do código, trago uma bagagem administrativa que me deu disciplina, organização de dados e uma visão analítica para otimizar processos.<br><br>Idiomas: Espanhol (Intermediário) e Inglês (Básico).<br><br>🚀 Objetivo<br>Ingressar no mercado como Estagiário ou Desenvolvedor Júnior para contribuir com projetos interativos e escaláveis.</p>
+<p align="left">Olá, eu sou o Bruno Verly! [cite_start]👋 [cite: 1][cite_start]<br>Atualmente cursando o 3º período de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul[cite: 12, 13]. [cite_start]Minha jornada na tecnologia é movida pelo entusiasmo em resolver desafios através da programação, buscando criar interfaces modernas e funcionais [cite: 9][cite_start].<br><br>💻 O que estou fazendo agora<br>Foco minhas energias no ecossistema JavaScript, especialmente com React.js, onde desenvolvi um Conversor de Moedas multilingue com suporte a Dark Mode e atualização em tempo real via Hooks [cite: 16, 18, 19, 25][cite_start].<br><br>Além do código, trago experiência administrativa, o que me proporcionou organização de dados e capacidade de otimizar processos [cite: 20, 28][cite_start].<br><br>Idiomas: Espanhol (Intermediário) e Inglês (Básico) [cite: 22, 23][cite_start].<br><br>🚀 Objetivo<br>Ingressar no mercado como Estagiário ou Desenvolvedor Júnior nas áreas de Front-end ou Full Stack[cite: 7, 8, 9, 10].</p>
 
 ###
 
@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/brunoverly7" target="_blank">
+  <a href="https://www.linkedin.com/in/brunoverly7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1124950701890605069" target="_blank">
@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/brunoverly7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="brunoverlysantos7@gmail.com" target="_blank">
+  <a href="mailto:Brunoverlysantos7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -67,5 +67,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg">
 </picture>
-
-###
