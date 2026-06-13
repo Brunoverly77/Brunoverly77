@@ -1,71 +1,29 @@
-<img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/59aca5f0-30ac-49fe-9920-1e3b0a9b8d90" />
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+# Olá 👋 Tudo bem?
 
-###
+Meu nome é **Bruno Verly dos Santos**, sou desenvolvedor e estudante de **Análise e Desenvolvimento de Sistemas (3º período)** no Rio de Janeiro, RJ. 🚀
 
-<p align="left">Meu nome é Bruno e eu sou um Desenvolvedor, sou do Rio de Janeiro, RJ.</p>
+## Sobre Mim
+Autodidata e entusiasta do desenvolvimento Front-end e Web. Minha jornada na tecnologia é movida pelo desafio de transformar linhas de código em interfaces modernas, funcionais e que resolvam problemas reais.
 
-###
+Atualmente, foco minhas energias no ecossistema JavaScript, especialmente com **React.js**, trazendo também uma bagagem administrativa que me deu disciplina, organização de dados e visão analítica para otimizar processos.
 
-<h2 align="left">Sobre Mim</h2>
+## 🛠 Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/n8n-%23FF0066.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
-###
+## 🚀 Objetivo
+Ingressar no mercado como **Estagiário em desenvolvimento web (Front-end ou Full Stack)**, buscando aprender em ambientes profissionais e contribuir em projetos reais.
 
-<p align="left">Olá, eu sou o Bruno Verly! 👋<br>Atualmente cursando Análise e Desenvolvimento de Sistemas  3º período e um entusiasta do desenvolvimento Front-end e Web. Minha jornada na tecnologia é movida pelo desafio de transformar linhas de código em interfaces modernas, funcionais e que resolvam problemas reais.<br><br>💻 O que estou fazendo agora<br>Atualmente, foco minhas energias no ecossistema JavaScript, especialmente com React.js , onde desenvolvi projetos como um Conversor de Moedas multilingue com suporte a Dark Mode.<br><br>Além do código, trago uma bagagem administrativa que me deu disciplina, organização de dados e uma visão analítica para otimizar processos.<br><br>Idiomas: Espanhol (Intermediário) e Inglês (Básico).<br><br>🚀 Objetivo<br>Ingressar no mercado como Estagiário ou Desenvolvedor Júnior para contribuir com projetos interativos e escaláveis.</p>
-
-###
-
-<h2 align="left">Tecnologia & Ferramentas</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/brunoverly7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1124950701890605069" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/brunoverly7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:Brunoverlysantos7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=4">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-contribution-graph.svg?v=4">
-</picture>
-
-###
+---
+📫 **Contato:** [brunoverlysantos7@gmail.com](mailto:brunoverlysantos7@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/brunoverly7](https://linkedin.com/in/brunoverly7)  
+💻 **Portfólio:** [portfolio-bruno-verly.vercel.app](https://portfolio-bruno-verly.vercel.app/)
