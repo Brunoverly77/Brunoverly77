@@ -1,4 +1,4 @@
-name: Generate Bomberman Graph
+name: Generate Pac-Man Graph
 
 on:
   schedule:
@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: Brunoverly77
           outputs: |
-            dist/bomberman.svg?renderer=tetris
-            dist/bomberman-dark.svg?renderer=tetris&palette=github-dark
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
