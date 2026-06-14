@@ -57,9 +57,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/bomberman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/bomberman.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/bomberman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunoverly77/Brunoverly77/output/pacman.svg">
 </picture>
 
 ###
