@@ -1,10 +1,8 @@
 name: Generate Pac-Man Graph
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -13,11 +11,10 @@ jobs:
         with:
           github_user_name: Brunoverly77
           outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark
+            dist/pacman.svg?renderer=pacman
+            dist/pacman-dark.svg?renderer=pacman&palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
